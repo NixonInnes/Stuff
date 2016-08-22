@@ -8,20 +8,21 @@ Thank-you, please & do the needy.
 ## Fo' Sho'
 | Game | Link | Price |
 |------|------|-------|
-| ARMA 3                | [Steam](http://store.steampowered.com/app/107410/) | £30 |
-| Operation Flashpoint  | ? | £? |
-| Goldeneye Source      | [Download](https://www.geshl2.com/downloads/)| free |
-| Call of Duty 1        | [Steam](http://store.steampowered.com/app/2620/)| £15 |
-| Call of Duty 4        | [Steam](http://store.steampowered.com/app/7940/)| £20 |
-| Chivalry (£)          | [Steam](http://store.steampowered.com/app/219640/) | £20 |
-| Left 4 Dead 2 (£)     | [Steam](http://store.steampowered.com/app/550/)| £15 |
-| Killing Floor (£)     | [Steam](http://store.steampowered.com/app/1250/) | £15 |
-| Armagetron Advanced   | [Download](http://www.armagetronad.org/downloads.php) | free |
-| Teeworlds             | [Download](https://www.teeworlds.com/?page=downloads) | free |
-| Trouble in Terrorist Town (GMod) | [Steam](http://store.steampowered.com/app/4000/) & [Info](http://ttt.badking.net/) | £7 |
-| Unreal Tournament     | [Steam](http://store.steampowered.com/app/13240/) | £6 |
-| Rise of Nations       | [Steam](http://store.steampowered.com/app/287450/) | £15 |
-| Counter-Strike        | [Steam](http://store.steampowered.com/app/10/) | £7 |
+| ARMA 3                            | [Steam](http://store.steampowered.com/app/107410/) | £30 |
+| Operation Flashpoint              | ? | £? |
+| Goldeneye Source                  | [Download](https://www.geshl2.com/downloads/)| free |
+| Call of Duty 1                    | [Steam](http://store.steampowered.com/app/2620/)| £15 |
+| Call of Duty 4                    | [Steam](http://store.steampowered.com/app/7940/)| £20 |
+| Chivalry                          | [Steam](http://store.steampowered.com/app/219640/) | £20 |
+| Left 4 Dead 2                     | [Steam](http://store.steampowered.com/app/550/)| £15 |
+| Killing Floor                     | [Steam](http://store.steampowered.com/app/1250/) | £15 |
+| Armagetron Advanced               | [Download](http://www.armagetronad.org/downloads.php) | free |
+| Teeworlds                         | [Download](https://www.teeworlds.com/?page=downloads) | free |
+| Trouble in Terrorist Town (GMod)  | [Steam](http://store.steampowered.com/app/4000/) & [Info](http://ttt.badking.net/) | £7 |
+| Unreal Tournament                 | [Steam](http://store.steampowered.com/app/13240/) | £6 |
+| Rise of Nations                   | [Steam](http://store.steampowered.com/app/287450/) | £15 |
+| Counter-Strike                    | [Steam](http://store.steampowered.com/app/10/) | £7 |
+| *subtotal* | | £150 |
 
 ## Debatable
 | Game | Link | Price |
