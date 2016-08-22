@@ -9,7 +9,8 @@ Thank-you, please & do the needy.
 * ARMA 3
 * Operation Flashpoint
 * Goldeneye Source
-* Call of Duty
+* Call of Duty 1
+* Call of Duty 4
 * Chivalry
 * Left 4 Dead 2
 * Killing Floor
@@ -17,6 +18,8 @@ Thank-you, please & do the needy.
 * Teeworlds
 * Trouble in Terrorist Town (GMod)
 * Unreal Tournament
+* Rise of Nations
+* Counter Strike 8.1
 
 ## Debatable
 * Hammerwatch
