@@ -9,7 +9,7 @@ Thank-you, please & do the needy.
 | Game | Link | Price |
 |------|------|-------|
 | ARMA 3                            | [Steam](http://store.steampowered.com/app/107410/) | £30 |
-| Operation Flashpoint              | ? | £? |
+| Operation Flashpoint aka ARMA Cold War Assult             | [Steam](http://store.steampowered.com/app/65790/) | £3.49 |
 | Goldeneye Source                  | [Download](https://www.geshl2.com/downloads/)| free |
 | Call of Duty 1                    | [Steam](http://store.steampowered.com/app/2620/)| £15 |
 | Call of Duty 4                    | [Steam](http://store.steampowered.com/app/7940/)| £20 |
