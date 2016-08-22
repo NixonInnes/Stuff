@@ -9,7 +9,7 @@ Thank-you, please & do the needy.
 ## Fo' Sho'
 * ARMA 3 (£) - [Steam](http://store.steampowered.com/app/107410/)
 * Operation Flashpoint (£) [Steam Link](http://store.steampowered.com/app/65790/)
-* Goldeneye Source - [Dpwnload](https://www.geshl2.com/downloads/)
+* Goldeneye Source - [Download](https://www.geshl2.com/downloads/)
 * Call of Duty 1 (£) - [Steam Link](http://store.steampowered.com/app/2620/)
 * Call of Duty 4 (£) - [Steam Link](http://store.steampowered.com/app/7940/)
 * Chivalry (£) - [Steam Link](http://store.steampowered.com/app/219640/)
