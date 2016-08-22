@@ -7,6 +7,7 @@ Thank-you, please & do the needy.
 
 ## Fo' Sho'
 * ARMA 3
+* Operation Flashpoint
 * Goldeneye Source
 * Call of Duty
 * Chivalry
@@ -14,6 +15,7 @@ Thank-you, please & do the needy.
 * Killing Floor
 * Armagetron Advanced
 * Teeworlds
+* Trouble in Terrorist Town (GMod)
 
 ## Debatable
 * Hammerwatch
