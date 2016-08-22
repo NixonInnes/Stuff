@@ -9,7 +9,7 @@ Thank-you, please & do the needy.
 | Game | Link | Price |
 |------|------|-------|
 | ARMA 3                            | [Steam](http://store.steampowered.com/app/107410/) | £30 |
-| Operation Flashpoint aka ARMA Cold War Assault             | [Steam](http://store.steampowered.com/app/65790/) | £3.49 |
+| Operation Flashpoint aka ARMA Cold War Assault             | [Steam](http://store.steampowered.com/app/65790/) | £3.50 |
 | Goldeneye Source                  | [Download](https://www.geshl2.com/downloads/)| free |
 | Call of Duty 1                    | [Steam](http://store.steampowered.com/app/2620/)| £15 |
 | Call of Duty 4                    | [Steam](http://store.steampowered.com/app/7940/)| £20 |
@@ -22,7 +22,7 @@ Thank-you, please & do the needy.
 | Unreal Tournament                 | [Steam](http://store.steampowered.com/app/13240/) | £6 |
 | Rise of Nations                   | [Steam](http://store.steampowered.com/app/287450/) | £15 |
 | Counter-Strike                    | [Steam](http://store.steampowered.com/app/10/) | £7 |
-| *subtotal* | | £153.49 |
+| *subtotal* | | £153.50 |
 
 ## Debatable
 | Game | Link | Price |
