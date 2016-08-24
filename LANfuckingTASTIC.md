@@ -24,13 +24,10 @@ Thank-you, please & do the needy.
 | Counter-Strike                    | [Steam](http://store.steampowered.com/app/10/) | £7 |
 | *subtotal* | | £153.50 |
 
-## For Review
+## Mebbe
 | Game | Link | Price |
 |------|------|-------|
 | Evolve Stage 2 | [Steam](http://store.steampowered.com/app/273350/) | Free |
-## Debatable
-| Game | Link | Price |
-|------|------|-------|
 | Hammerwatch           | [Steam](http://store.steampowered.com/app/239070/) | £7 |
 | Payday 2              | [Steam](http://store.steampowered.com/app/218620/) | £15 |
 | BrainBread 2          | [Steam](http://store.steampowered.com/app/346330/) | free |
